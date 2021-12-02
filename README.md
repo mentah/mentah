@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mentah
 - 👀 I’m new to github. 
-- 🌱 I’m currently learning Node.js/html/css.
+- 🌱 I’m currently learning js/html/css.
 - 📫 How to reach me (coming soon)
 
 <!---
